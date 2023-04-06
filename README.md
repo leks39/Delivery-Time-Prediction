@@ -3,6 +3,8 @@ Over the last couple of years, food delivery has become a norm in people’s liv
 
 The key metric in determining successful food delivery is **TIME** as delivery minutes directly impact customer satisfaction, food quality and food safety. This project focuses on predicting delivery time and identifying the key features that determine it based on the dataset analyzed.
 
+See below table of contents showing te work flow of this project
+
 **Table of Contents**
 1. Importing Libraries
 2. Loading Dataset and EDA
